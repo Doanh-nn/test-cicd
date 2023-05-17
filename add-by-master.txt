@@ -1,1 +1,2 @@
 cap nhap boi master
+day la update1
